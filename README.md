@@ -1,7 +1,6 @@
 # Custom-ROM-and-GSI-Flasher
 
-**These are only for Windows devices. However, the commands used can also be done on macOS and Linux, when provided with the Android SDK Tools.
-A custom ROM and GSI flasher created for Android devices.**
+**These are only for Windows devices. However, the commands used can also be done on macOS and Linux, when provided with the Android SDK Tools.**
 
 Use at your own risk. 
 
